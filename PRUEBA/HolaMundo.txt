@@ -1,1 +1,2 @@
-Hola Mundo desde Git Bash
+Hola Mundo desde Git Bash Modificacion hecha en gitbash, luego de haber clonado el 
+repositorio hacia ruta local
